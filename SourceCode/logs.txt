@@ -1,0 +1,77 @@
+Log Activity
+-------------
+yoda displayed all cars 2024-04-29 18:30:48 Log Activity
+-------------
+yoda filtered cars 2024-04-29 18:30:50 Log Activity
+-------------
+yoda filtered cars 2024-04-29 18:30:52 Log Activity
+-------------
+yoda bought car 2024-04-29 18:30:57 Log Activity
+-------------
+yoda bought car 2024-04-29 18:31:02 Log Activity
+-------------
+yoda viewed tickets 2024-04-29 18:31:07 Log Activity
+-------------
+yoda returned car 2024-04-29 18:31:13 Log Activity
+-------------
+yoda got membership 2024-04-29 18:31:17 Log Activity
+-------------
+yoda bought car 2024-04-29 18:31:32 Log Activity
+-------------
+yoda viewed tickets 2024-04-29 18:31:36 Log Activity
+-------------
+yoda signed out 2024-04-29 18:31:42 Log Activity
+-------------
+Admin logged in 2024-04-29 18:31:46 Log Activity
+-------------
+Admin displayed cars 2024-04-29 18:31:47 Log Activity
+-------------
+Admin displayed users 2024-04-29 18:31:50 Log Activity
+-------------
+Admin viewed logs 2024-04-29 18:31:53 Log Activity
+-------------
+Admin added new user 2024-04-29 18:33:56 Log Activity
+-------------
+Admin added new car 2024-04-29 18:36:32 Log Activity
+-------------
+Admin removed car 2024-04-29 18:43:02 Log Activity
+-------------
+Admin viewed car revenue 2024-04-29 18:44:51 Log Activity
+-------------
+Admin viewed car revenue 2024-04-29 18:45:41 Log Activity
+-------------
+Admin signed out 2024-04-29 18:46:30 Log Activity
+-------------
+ 2024-04-29 21:10:48 Log Activity
+-------------
+ 2024-04-29 22:11:48 Log Activity
+-------------
+ 2024-04-29 22:11:51 Log Activity
+-------------
+Admin logged in 2024-04-29 22:35:59 Log Activity
+-------------
+Admin added new car 2024-04-29 22:36:40 Log Activity
+-------------
+Admin added new car 2024-04-29 22:37:14 Log Activity
+-------------
+Admin signed out 2024-04-29 22:37:54 Log Activity
+-------------
+Admin logged in 2024-04-29 22:42:33 Log Activity
+-------------
+Admin added new user 2024-04-29 22:42:52 Log Activity
+-------------
+Admin added new user 2024-04-29 22:43:42 Log Activity
+-------------
+Admin signed out 2024-04-29 22:43:47 Log Activity
+-------------
+Admin logged in 2024-04-29 22:44:03 Log Activity
+-------------
+Admin added new user 2024-04-29 22:44:18 Log Activity
+-------------
+Admin signed out 2024-04-29 22:44:41 Log Activity
+-------------
+Admin logged in 2024-04-29 22:45:30 Log Activity
+-------------
+Admin added new user 2024-04-29 22:45:40 Log Activity
+-------------
+Admin signed out 2024-04-29 22:46:22 
